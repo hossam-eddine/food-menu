@@ -1,0 +1,218 @@
+{
+  "src/images/sandwish.jpg": {
+    "file": "_app/immutable/assets/sandwish-8d11f82e.jpg",
+    "src": "src/images/sandwish.jpg"
+  },
+  "src/images/brochette.jpg": {
+    "file": "_app/immutable/assets/brochette-beaf6128.jpg",
+    "src": "src/images/brochette.jpg"
+  },
+  "src/images/burger.jpg": {
+    "file": "_app/immutable/assets/burger-79a96dad.jpg",
+    "src": "src/images/burger.jpg"
+  },
+  "src/images/salade_chinoise.jpg": {
+    "file": "_app/immutable/assets/salade_chinoise-9aadd9cd.jpg",
+    "src": "src/images/salade_chinoise.jpg"
+  },
+  "src/images/salade_nicoise.jpg": {
+    "file": "_app/immutable/assets/salade_nicoise-2dda5c6c.jpg",
+    "src": "src/images/salade_nicoise.jpg"
+  },
+  "src/images/3d model/salad-chinoise.glb": {
+    "file": "_app/immutable/assets/salad-chinoise-d67cafaf.glb",
+    "src": "src/images/3d model/salad-chinoise.glb"
+  },
+  "src/images/3d model/pizza.glb": {
+    "file": "_app/immutable/assets/pizza-9c99a61b.glb",
+    "src": "src/images/3d model/pizza.glb"
+  },
+  "src/images/3d model/burger.glb": {
+    "file": "_app/immutable/assets/burger-8b80fdcc.glb",
+    "src": "src/images/3d model/burger.glb"
+  },
+  "src/images/pizza.jpg": {
+    "file": "_app/immutable/assets/pizza-633206e6.jpg",
+    "src": "src/images/pizza.jpg"
+  },
+  "src/images/3d model/salade-nicoise.glb": {
+    "file": "_app/immutable/assets/salade-nicoise-b0ffd49d.glb",
+    "src": "src/images/3d model/salade-nicoise.glb"
+  },
+  "src/images/3d model/sandwish.glb": {
+    "file": "_app/immutable/assets/sandwish-c7c0d675.glb",
+    "src": "src/images/3d model/sandwish.glb"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/start-d622d90f.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-d855e31d.js",
+      "_singletons-d9eb063f.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/nodes/0.js",
+      ".svelte-kit/generated/nodes/1.js",
+      ".svelte-kit/generated/nodes/2.js",
+      ".svelte-kit/generated/nodes/3.js",
+      ".svelte-kit/generated/nodes/4.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "_app/immutable/components/pages/_layout.svelte-b1383390.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-d855e31d.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout-45980891.css"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "_app/immutable/components/error.svelte-306b2c71.js",
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-d855e31d.js",
+      "_singletons-d9eb063f.js"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "_app/immutable/components/pages/_page.svelte-d12e0e8b.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-d855e31d.js",
+      "_use-lazy-image-b3ab930a.js"
+    ]
+  },
+  "src/routes/menu/+page.svelte": {
+    "file": "_app/immutable/components/pages/menu/_page.svelte-2a06831a.js",
+    "src": "src/routes/menu/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-d855e31d.js",
+      "_productstores-2bd06ed9.js",
+      "_use-lazy-image-b3ab930a.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-35ba1592.css"
+    ]
+  },
+  "src/routes/product/[id]/+page.svelte": {
+    "file": "_app/immutable/components/pages/product/_id_/_page.svelte-ee722f50.js",
+    "src": "src/routes/product/[id]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-d855e31d.js",
+      "_use-lazy-image-b3ab930a.js",
+      "_productstores-2bd06ed9.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page-614e3c2d.css"
+    ]
+  },
+  "src/routes/product/[id]/+page.js": {
+    "file": "_app/immutable/modules/pages/product/_id_/_page.js-cef2dac1.js",
+    "src": "src/routes/product/[id]/+page.js",
+    "isEntry": true,
+    "imports": [
+      "__page-a88ce8c7.js"
+    ]
+  },
+  "_singletons-d9eb063f.js": {
+    "file": "_app/immutable/chunks/singletons-d9eb063f.js",
+    "imports": [
+      "_index-637742f8.js"
+    ]
+  },
+  "_index-d855e31d.js": {
+    "file": "_app/immutable/chunks/index-d855e31d.js"
+  },
+  "_index-637742f8.js": {
+    "file": "_app/immutable/chunks/index-637742f8.js",
+    "imports": [
+      "_index-d855e31d.js"
+    ]
+  },
+  "_use-lazy-image-b3ab930a.js": {
+    "file": "_app/immutable/chunks/use-lazy-image-b3ab930a.js"
+  },
+  "_productstores-2bd06ed9.js": {
+    "file": "_app/immutable/chunks/productstores-2bd06ed9.js",
+    "imports": [
+      "_index-637742f8.js"
+    ],
+    "assets": [
+      "_app/immutable/assets/burger-79a96dad.jpg",
+      "_app/immutable/assets/sandwish-8d11f82e.jpg",
+      "_app/immutable/assets/brochette-beaf6128.jpg",
+      "_app/immutable/assets/pizza-633206e6.jpg",
+      "_app/immutable/assets/salade_nicoise-2dda5c6c.jpg",
+      "_app/immutable/assets/salade_chinoise-9aadd9cd.jpg",
+      "_app/immutable/assets/burger-8b80fdcc.glb",
+      "_app/immutable/assets/pizza-9c99a61b.glb",
+      "_app/immutable/assets/salad-chinoise-d67cafaf.glb",
+      "_app/immutable/assets/salade-nicoise-b0ffd49d.glb",
+      "_app/immutable/assets/sandwish-c7c0d675.glb"
+    ]
+  },
+  "__page-a88ce8c7.js": {
+    "file": "_app/immutable/chunks/_page-a88ce8c7.js"
+  },
+  ".svelte-kit/generated/nodes/0.js": {
+    "file": "_app/immutable/chunks/0-a11f08c3.js",
+    "src": ".svelte-kit/generated/nodes/0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+layout.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/1.js": {
+    "file": "_app/immutable/chunks/1-586f7e37.js",
+    "src": ".svelte-kit/generated/nodes/1.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-39614678.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+page.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/3.js": {
+    "file": "_app/immutable/chunks/3-4ac5a851.js",
+    "src": ".svelte-kit/generated/nodes/3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/menu/+page.svelte"
+    ]
+  },
+  ".svelte-kit/generated/nodes/4.js": {
+    "file": "_app/immutable/chunks/4-142ea480.js",
+    "src": ".svelte-kit/generated/nodes/4.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__page-a88ce8c7.js",
+      "src/routes/product/[id]/+page.svelte"
+    ]
+  },
+  "src/routes/product/[id]/+page.css": {
+    "file": "_app/immutable/assets/_page-614e3c2d.css",
+    "src": "src/routes/product/[id]/+page.css"
+  },
+  "src/routes/menu/+page.css": {
+    "file": "_app/immutable/assets/_page-35ba1592.css",
+    "src": "src/routes/menu/+page.css"
+  },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout-45980891.css",
+    "src": "src/routes/+layout.css"
+  }
+}
